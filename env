@@ -1,0 +1,9 @@
+DATASOURCE_URL=jdbc:mysql://mysql-service-rohitindi45.j.aivencloud.com:15052/defaultdb?useSSL=true&requireSSL=true
+
+DATASOURCE_USER=avnadmin
+
+DATASOURCE_PASSWORD=AVNS_XhzZdYjY1U9mh2mqn1n
+
+DATASOURCE_CORS=http://localhost:5173
+
+
