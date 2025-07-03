@@ -12,7 +12,7 @@ public class CorsConfig implements WebMvcConfigurer {
 	    registry.addMapping("/**")
 	            .allowedOrigins(
 	                "https://chesthospital.netlify.app",                  // Netlify default
-	                "https://www.drpandarkarchestclinic.com",            // Custom domain
+	                "https://www.drpandharkarchestclinic.com",            // Custom domain
 	                "http://localhost:5173"                               // Vite dev server
 	            )
 	            .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
